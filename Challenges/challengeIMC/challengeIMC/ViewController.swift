@@ -35,7 +35,6 @@ class ViewController: UIViewController {
         let peso = pes
         let imc : Float = Float(peso)! / (Float(altura)! * Float(altura)!)
         
-        
         if imc < 18.5 {
             imageView.isHidden = false
             imageView.image = UIImage(named: "dededede")
