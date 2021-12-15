@@ -1,8 +1,9 @@
 //
 //  ViewController.swift
-//  Xylophone App
+//  Xylophone
 //
-//  Created by user209843 on 12/15/21.
+//  Created by Angela Yu on 28/06/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
@@ -11,9 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
+
+    
 
 }
 
