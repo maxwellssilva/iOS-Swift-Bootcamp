@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         
         calcImc(alt: alturaView.text!, pes: pesoView.text!)
         
-    
     }
     
     func calcImc(alt: String, pes: String) -> Float {
